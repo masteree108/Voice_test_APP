@@ -4,6 +4,6 @@
 
  <default remote="origin" revision="master"/>
 
- <project name="VoTT_NTUT_UBU18" path="VoTT_NTUT/UBU18/" />
- <project name="CVTRK_UBU18" path="CVTRK/UBU18/" />
+ <project name="OS_MediaRecorder" path="voice_APP/" />
+ <project name="OS_PPT_control" path="PPT_service/" />
 </manifest>
