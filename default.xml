@@ -4,6 +4,5 @@
 
  <default remote="origin" revision="master"/>
 
- <project name="OS_MediaRecorder" path="voice_APP/" />
  <project name="OS_PPT_control" path="PPT_service/" />
 </manifest>
