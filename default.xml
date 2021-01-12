@@ -4,5 +4,5 @@
 
  <default remote="origin" revision="master"/>
 
- <project name="OS_PPT_control" path="PPT_service/" />
+ <project name="NTUT_for_testing" path="ttt/" />
 </manifest>
