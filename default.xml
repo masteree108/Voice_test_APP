@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote fetch="https://github.com/masteree108/" name="origin"/>
-  <default remote="origin" revision="master"/>
-  <project name="NTUT_for_testing" path="ccc/"/>
+  <default remote="origin" revision="main"/>
   <project name="OS_PPT_control" path="ddd/"/>
 </manifest>
