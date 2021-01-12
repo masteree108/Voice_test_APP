@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote fetch="https://github.com/masteree108/" name="origin"/>
-  <default remote="origin" revision="main"/>
-  <project name="OS_PPT_control" path="ddd/"/>
+ <remote fetch="https://github.com/masteree108/" name="origin"/>
+
+ <default remote="origin" revision="main"/>
+ <project name="OS_MediaRecorder" path="voice_APP/" />
+ <project name="OS_PPT_control" path="PPT_service/" />
 </manifest>
