@@ -2,5 +2,5 @@
 <manifest>
   <remote fetch="https://github.com/masteree108/" name="origin"/>
   <default remote="origin" revision="master"/>
-  <project name="OS_PPT_control" path="PPT_service/"/>
+  <project name="NTUT_for_testing" path="PPT_service/"/>
 </manifest>
