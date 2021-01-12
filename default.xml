@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote fetch="https://github.com/masteree108/" name="origin"/>
-  <default remote="origin" revision="master" />
-  <project name="OS_PPT_control" path="PPT_service/" />
+  <default remote="origin" revision="master"/>
+  <project name="OS_PPT_control" path="PPT_service/"/>
 </manifest>
